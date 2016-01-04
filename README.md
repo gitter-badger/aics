@@ -1,5 +1,7 @@
 # aics
 
+[![Join the chat at https://gitter.im/phc1212/aics](https://badges.gitter.im/phc1212/aics.svg)](https://gitter.im/phc1212/aics?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ##配合 code-depot.cc 代码仓库使用的代码包管理工具
 
 ###安装aics-cli
